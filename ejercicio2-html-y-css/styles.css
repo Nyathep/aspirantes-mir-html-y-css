@@ -12,7 +12,7 @@ form {
     box-shadow: 5px 5px 4px 1px black;
 }
 
-.input100{
+.input-field{
     padding: 7px;
     width: 95%;
     margin-bottom: 10px;
@@ -34,6 +34,6 @@ form {
 
 @media (max-width: 499px){
     form {
-        width: 100%;
+        width: 88%;
     } 
 }
